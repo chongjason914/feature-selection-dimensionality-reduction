@@ -7,7 +7,7 @@ This repository contains a notebook which explores various feature selection and
 
 The techniques that will be covered in this notebook as follows:
 
-- Variance inflation factors (VIF)
+- Variance inflation factor (VIF)
 - Univariate feature selection
 - Recursive feature elimination
 - Model-based feature selection
@@ -51,7 +51,7 @@ The mean, standard error and worst of each feature were also computed, resulting
 
 **6. Feature selection**
 - 6.1 Base case
-- 6.2 Variance inflation factors (VIF)
+- 6.2 Variance inflation factor (VIF)
 - 6.3 Univariate features selection
 - 6.4 Recursive feature elimination
 - 6.5 Model-based feature selection
@@ -64,7 +64,7 @@ The mean, standard error and worst of each feature were also computed, resulting
 **9. Follow me on other platforms**
 
 ## Conclusion
-- Variance inflation factors (98.83% accuracy with 25 features)
+- Variance inflation factor (98.83% accuracy with 25 features)
 - Univariate feature selection (95.32% accuracy with 5 features)
 - Recursive feature elimination (95.91% accuracy with 5 features)
 - Model-based feature selection (97.08% accuracy with 9 features)
