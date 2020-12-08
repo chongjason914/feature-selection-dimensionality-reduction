@@ -1,7 +1,7 @@
 # Feature Selection & Dimensionality Reduction - Wisconsin Breast Cancer Classification
 
 ## Introduction
-To summarise, feature selection and dimensionality reduction allow us to minimise the number of features in our dataset by only keeping features that are important. In other words, we want to retain features that contain the most useful information that is needed by our model to learn to make accurate predictions while discarding features that contain little to no information.
+Feature selection and dimensionality reduction allow us to minimise the number of features in our dataset by only keeping features that are important. In other words, we want to retain features that contain the most useful information that is needed by our model to make accurate predictions while discarding redundant features that contain little to no information.
 
 This repository contains a notebook which explores various feature selection and dimensionality reduction techniques in reference to the [Wisconsin breast cancer dataset](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data) on Kaggle. This dataset contains 569 breast cancer observations in which 357 of them are benign and 212 of them are malignant. The goal is to train a machine learning model that is able to classify a random breast cancer observation as either benign or malignant. I have chosen the random forest classifier for this particular problem but feel free try out other classification models of your choice.
 
