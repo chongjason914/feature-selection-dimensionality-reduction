@@ -72,17 +72,19 @@ The mean, standard error and worst of each feature were also computed, resulting
 
 As we saw, despite using a significantly less number of features, we still managed to come very close the accuracy score under the base case scenario (98.25% accuracy) where all the features in the dataset were used to train our model. 
 
+## Medium article
+Link to full write-up on Towards Data Science [here](https://towardsdatascience.com/feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624).
+
 ## Additional resources
 - [Random forest](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
 - [Confusion matrix](https://www.youtube.com/watch?v=8Oog7TXHvFY&t=1681s)
 - [Principal component analysis](https://www.youtube.com/watch?v=FgakZw6K1QQ)
 - [Scikit-learn feature selection documentation](https://scikit-learn.org/stable/modules/feature_selection.html)
 
-## My platforms
-Reach out to me if you have any questions!
+## Follow me 
 - [Facebook](https://www.facebook.com/chongjason914)
 - [Instagram](https://www.instagram.com/chongjason914)
 - [Twitter](https://www.twitter.com/chongjason914)
 - [LinkedIn](https://www.linkedin.com/in/chongjason914)
-- [YouTube](https://www.youtube.com/channel/UCQXiCnjatxiAKgWjoUlM-Xg?view_as=subscriber)
+- [YouTube](https://www.youtube.com/jasonchong914)
 - [Medium](https://www.medium.com/@chongjason)
