@@ -31,38 +31,6 @@ The columns of the dataset represent 10 real-valued features of each cell nucleu
 
 The mean, standard error and worst of each feature were also computed, resulting in a total of 10 x 3 = 30 features (columns) in the dataset excluding the target variable.
 
-
-## Notebook content
-**0. Introduction**
-
-**1. Import libraries**
-
-**2. Import and read data**
-
-**3. Check for missing values**
-
-**4. Data description**
-
-**5. Exploratory data analysis**
-- 5.1 Target variable
-- 5.2 Predictor variables
-  - 5.2.1 Issue of multicollinearity
-  -  5.2.2 Explore the relationship between predictor variables and target variable
-
-**6. Feature selection**
-- 6.1 Base case
-- 6.2 Variance inflation factor (VIF)
-- 6.3 Univariate features selection
-- 6.4 Recursive feature elimination
-- 6.5 Model-based feature selection
-- 6.6 Principal component analysis (PCA)
-
-**7. Conclusion**
-
-**8. Additional resources**
-
-**9. Follow me on other platforms**
-
 ## Conclusion
 - Variance inflation factor (98.83% accuracy with 25 features)
 - Univariate feature selection (95.32% accuracy with 5 features)
@@ -70,7 +38,7 @@ The mean, standard error and worst of each feature were also computed, resulting
 - Model-based feature selection (97.08% accuracy with 9 features)
 - Principal component analysis (97.08% with 4 principal components)
 
-As we saw, despite using a significantly less number of features, we still managed to come very close the accuracy score under the base case scenario (98.25% accuracy) where all the features in the dataset were used to train our model. 
+Despite using a significantly less number of features, we still managed to come very close the accuracy score under the base case scenario (98.25% accuracy) where all the features in the dataset were used to train our model. 
 
 ## Medium article
 Link to full write-up on Towards Data Science [here](https://towardsdatascience.com/feature-selection-dimensionality-reduction-techniques-to-improve-model-accuracy-d9cb3e008624).
